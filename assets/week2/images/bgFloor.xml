@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgFloor.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="barzinho do MEU ze0000" x="0" y="0" width="1431" height="237" pivotX="715.15" pivotY="118.35"/>
+</TextureAtlas>

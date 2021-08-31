@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="storymenuChar.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cola" x="0" y="0" width="715" height="217" pivotX="0" pivotY="0"/>
+	<SubTexture name="n1" x="0" y="217" width="753" height="225" pivotX="0" pivotY="0"/>
+	<SubTexture name="n2" x="0" y="442" width="713" height="248" pivotX="0" pivotY="0"/>
+	<SubTexture name="tutorial" x="0" y="690" width="791" height="268" pivotX="0" pivotY="0"/>
+</TextureAtlas>

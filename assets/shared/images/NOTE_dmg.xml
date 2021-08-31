@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_dmg.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrowDMG0000" x="0" y="0" width="158" height="155" pivotX="0.3" pivotY="0.15"/>
+	<SubTexture name="daaammmaaagee0000" x="158" y="0" width="158" height="155" pivotX="0" pivotY="-0.05"/>
+	<SubTexture name="damage0000" x="316" y="0" width="157" height="155" pivotX="0.85" pivotY="-0.4"/>
+	<SubTexture name="damage confirm0000" x="0" y="155" width="237" height="233" pivotX="35" pivotY="34.9"/>
+	<SubTexture name="damage confirm0001" x="237" y="155" width="237" height="233"/>
+	<SubTexture name="damage confirm0002" x="0" y="388" width="215" height="211" frameX="-11" frameY="-11" frameWidth="237" frameHeight="233"/>
+	<SubTexture name="damage confirm0003" x="0" y="388" width="215" height="211" frameX="-11" frameY="-11" frameWidth="237" frameHeight="233"/>
+	<SubTexture name="damage hold end0000" x="215" y="388" width="51" height="64" pivotX="0" pivotY="0"/>
+	<SubTexture name="damage hold piece0000" x="266" y="388" width="50" height="44" pivotX="0" pivotY="0"/>
+	<SubTexture name="damage press0000" x="316" y="388" width="153" height="150" pivotX="0.35" pivotY="0"/>
+	<SubTexture name="damage press0001" x="316" y="388" width="153" height="150"/>
+	<SubTexture name="damage press0002" x="0" y="599" width="153" height="150"/>
+	<SubTexture name="damage press0003" x="0" y="599" width="153" height="150"/>
+</TextureAtlas>

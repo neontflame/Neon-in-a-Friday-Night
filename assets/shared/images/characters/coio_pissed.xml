@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="coio_pissed.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="coio idle0000" x="0" y="0" width="426" height="396" pivotX="169.7" pivotY="408.25" frameX="-2" frameY="-7" frameWidth="430" frameHeight="405"/>
+	<SubTexture name="coio idle0001" x="426" y="0" width="427" height="398" frameX="-3" frameY="-2" frameWidth="430" frameHeight="405"/>
+	<SubTexture name="coio idle0002" x="853" y="0" width="416" height="401" frameX="-6" frameY="-4" frameWidth="430" frameHeight="405"/>
+	<SubTexture name="coio idle0003" x="1269" y="0" width="427" height="400" frameX="0" frameY="-3" frameWidth="430" frameHeight="405"/>
+	<SubTexture name="coio idle0004" x="0" y="401" width="422" height="400" frameX="-2" frameY="-3" frameWidth="430" frameHeight="405"/>
+	<SubTexture name="coio idle0005" x="422" y="401" width="425" height="400" frameX="-3" frameY="0" frameWidth="430" frameHeight="405"/>
+	<SubTexture name="coio idle0006" x="847" y="401" width="416" height="401" frameX="-6" frameY="-4" frameWidth="430" frameHeight="405"/>
+	<SubTexture name="coio idle0007" x="1263" y="401" width="427" height="400" frameX="0" frameY="-3" frameWidth="430" frameHeight="405"/>
+	<SubTexture name="coio idle0008" x="0" y="401" width="422" height="400" frameX="-2" frameY="-3" frameWidth="430" frameHeight="405"/>
+	<SubTexture name="coio idle0009" x="422" y="401" width="425" height="400" frameX="-3" frameY="0" frameWidth="430" frameHeight="405"/>
+	<SubTexture name="coio idle0010" x="847" y="401" width="416" height="401" frameX="-6" frameY="-4" frameWidth="430" frameHeight="405"/>
+	<SubTexture name="coio idle0011" x="1263" y="401" width="427" height="400" frameX="0" frameY="-3" frameWidth="430" frameHeight="405"/>
+	<SubTexture name="coio note down0000" x="0" y="802" width="437" height="375" pivotX="152.7" pivotY="395.65" frameX="-25" frameY="-4" frameWidth="462" frameHeight="379"/>
+	<SubTexture name="coio note down0001" x="437" y="802" width="439" height="375" frameX="-22" frameY="-2" frameWidth="462" frameHeight="379"/>
+	<SubTexture name="coio note down0002" x="876" y="802" width="453" height="378" frameX="0" frameY="-1" frameWidth="462" frameHeight="379"/>
+	<SubTexture name="coio note down0003" x="1329" y="802" width="453" height="378" frameX="0" frameY="-1" frameWidth="462" frameHeight="379"/>
+	<SubTexture name="coio note down0004" x="0" y="1180" width="454" height="379" frameX="0" frameY="0" frameWidth="462" frameHeight="379"/>
+	<SubTexture name="coio note down0005" x="454" y="1180" width="454" height="379" frameX="0" frameY="0" frameWidth="462" frameHeight="379"/>
+	<SubTexture name="coio note down0006" x="454" y="1180" width="454" height="379" frameX="0" frameY="0" frameWidth="462" frameHeight="379"/>
+	<SubTexture name="coio note down0007" x="454" y="1180" width="454" height="379" frameX="0" frameY="0" frameWidth="462" frameHeight="379"/>
+	<SubTexture name="coio note down0008" x="454" y="1180" width="454" height="379" frameX="0" frameY="0" frameWidth="462" frameHeight="379"/>
+	<SubTexture name="coio note down0009" x="454" y="1180" width="454" height="379" frameX="0" frameY="0" frameWidth="462" frameHeight="379"/>
+	<SubTexture name="coio note left0000" x="908" y="1180" width="466" height="375" pivotX="195.7" pivotY="391.3" frameX="0" frameY="0" frameWidth="483" frameHeight="376"/>
+	<SubTexture name="coio note left0001" x="1374" y="1180" width="467" height="376" frameX="-1" frameY="0" frameWidth="483" frameHeight="376"/>
+	<SubTexture name="coio note left0002" x="0" y="1559" width="452" height="375" frameX="-29" frameY="0" frameWidth="483" frameHeight="376"/>
+	<SubTexture name="coio note left0003" x="452" y="1559" width="452" height="375" frameX="-29" frameY="0" frameWidth="483" frameHeight="376"/>
+	<SubTexture name="coio note left0004" x="904" y="1559" width="454" height="375" frameX="-29" frameY="0" frameWidth="483" frameHeight="376"/>
+	<SubTexture name="coio note left0005" x="1358" y="1559" width="454" height="375" frameX="-29" frameY="0" frameWidth="483" frameHeight="376"/>
+	<SubTexture name="coio note left0006" x="1358" y="1559" width="454" height="375" frameX="-29" frameY="0" frameWidth="483" frameHeight="376"/>
+	<SubTexture name="coio note left0007" x="1358" y="1559" width="454" height="375" frameX="-29" frameY="0" frameWidth="483" frameHeight="376"/>
+	<SubTexture name="coio note left0008" x="1358" y="1559" width="454" height="375" frameX="-29" frameY="0" frameWidth="483" frameHeight="376"/>
+	<SubTexture name="coio note left0009" x="1358" y="1559" width="454" height="375" frameX="-29" frameY="0" frameWidth="483" frameHeight="376"/>
+	<SubTexture name="coio note right0000" x="0" y="1934" width="459" height="400" pivotX="154.1" pivotY="405.15" frameX="-2" frameY="0" frameWidth="490" frameHeight="400"/>
+	<SubTexture name="coio note right0001" x="459" y="1934" width="453" height="397" frameX="-2" frameY="-3" frameWidth="490" frameHeight="400"/>
+	<SubTexture name="coio note right0002" x="912" y="1934" width="484" height="400" frameX="0" frameY="0" frameWidth="490" frameHeight="400"/>
+	<SubTexture name="coio note right0003" x="1396" y="1934" width="484" height="400" frameX="0" frameY="0" frameWidth="490" frameHeight="400"/>
+	<SubTexture name="coio note right0004" x="0" y="2334" width="490" height="400"/>
+	<SubTexture name="coio note right0005" x="490" y="2334" width="490" height="400"/>
+	<SubTexture name="coio note right0006" x="490" y="2334" width="490" height="400"/>
+	<SubTexture name="coio note right0007" x="490" y="2334" width="490" height="400"/>
+	<SubTexture name="coio note right0008" x="490" y="2334" width="490" height="400"/>
+	<SubTexture name="coio note right0009" x="490" y="2334" width="490" height="400"/>
+	<SubTexture name="coio note up0000" x="980" y="2334" width="398" height="454" pivotX="190.4" pivotY="470.3" frameX="-29" frameY="0" frameWidth="427" frameHeight="454"/>
+	<SubTexture name="coio note up0001" x="1378" y="2334" width="399" height="453" frameX="-28" frameY="0" frameWidth="427" frameHeight="454"/>
+	<SubTexture name="coio note up0002" x="0" y="2788" width="423" height="441" frameX="-1" frameY="-13" frameWidth="427" frameHeight="454"/>
+	<SubTexture name="coio note up0003" x="423" y="2788" width="423" height="441" frameX="-1" frameY="-13" frameWidth="427" frameHeight="454"/>
+	<SubTexture name="coio note up0004" x="846" y="2788" width="424" height="437" frameX="0" frameY="-17" frameWidth="427" frameHeight="454"/>
+	<SubTexture name="coio note up0005" x="1270" y="2788" width="424" height="437" frameX="0" frameY="-17" frameWidth="427" frameHeight="454"/>
+	<SubTexture name="coio note up0006" x="1270" y="2788" width="424" height="437" frameX="0" frameY="-17" frameWidth="427" frameHeight="454"/>
+	<SubTexture name="coio note up0007" x="1270" y="2788" width="424" height="437" frameX="0" frameY="-17" frameWidth="427" frameHeight="454"/>
+	<SubTexture name="coio note up0008" x="1270" y="2788" width="424" height="437" frameX="0" frameY="-17" frameWidth="427" frameHeight="454"/>
+	<SubTexture name="coio note up0009" x="1270" y="2788" width="424" height="437" frameX="0" frameY="-17" frameWidth="427" frameHeight="454"/>
+</TextureAtlas>
