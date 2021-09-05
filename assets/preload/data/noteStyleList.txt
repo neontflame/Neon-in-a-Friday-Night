@@ -1,2 +1,2 @@
 normal
-pixel
+please-use-normal

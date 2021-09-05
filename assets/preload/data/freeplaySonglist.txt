@@ -3,3 +3,4 @@ Fireball:neon:1
 Flame:neon:1
 Burn:neon:1
 freedom-dive:neongood:1
+video-file:neonavi:1
