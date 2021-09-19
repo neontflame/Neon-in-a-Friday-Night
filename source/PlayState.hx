@@ -387,7 +387,7 @@ class PlayState extends MusicBeatState
 						stageFront.setGraphicSize(Std.int(stageFront.width * 1.1));
 						stageFront.updateHitbox();
 						stageFront.antialiasing = true;
-						stageFront.scrollFactor.set(0.9, 0.9);
+						stageFront.scrollFactor.set(1, 1);
 						stageFront.active = false;
 						add(stageFront);
 				}
@@ -405,7 +405,7 @@ class PlayState extends MusicBeatState
 						stageFront.setGraphicSize(Std.int(stageFront.width * 1.1));
 						stageFront.updateHitbox();
 						stageFront.antialiasing = true;
-						stageFront.scrollFactor.set(0.9, 0.9);
+						stageFront.scrollFactor.set(1, 1);
 						stageFront.active = false;
 						add(stageFront);
 				}
@@ -423,7 +423,7 @@ class PlayState extends MusicBeatState
 						stageFront.setGraphicSize(Std.int(stageFront.width * 1.1));
 						stageFront.updateHitbox();
 						stageFront.antialiasing = true;
-						stageFront.scrollFactor.set(0.9, 0.9);
+						stageFront.scrollFactor.set(1, 1);
 						stageFront.active = false;
 						add(stageFront);
 				}
