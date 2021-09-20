@@ -146,15 +146,23 @@ class Character extends FlxSprite
 				frames = tex;
 				animation.addByPrefix('idle', 'neonavi idle', 24, false);
 				animation.addByPrefix('singUP', 'neonavi up', 24);
+				animation.addByPrefix('singUP-alt', 'neonavi scream', 24);
 				animation.addByPrefix('singRIGHT', 'neonavi right', 24);
+				animation.addByPrefix('singRIGHT-alt', 'neonavi right', 24);
 				animation.addByPrefix('singDOWN', 'neonavi down', 24);
+				animation.addByPrefix('singDOWN-alt', 'neonavi down', 24);
 				animation.addByPrefix('singLEFT', 'neonavi left', 24);
+				animation.addByPrefix('singLEFT-alt', 'neonavi left', 24);
 
 				addOffset('idle', 0);
 				addOffset('singUP', -61, 66);
+				addOffset('singUP-alt', 86, 15);
 				addOffset('singRIGHT', 111, -156);
+				addOffset('singRIGHT-alt', 120, -156);
 				addOffset('singLEFT', 198, 92);
+				addOffset('singLEFT-alt', 178, 92);
 				addOffset('singDOWN', 26, -128);
+				addOffset('singDOWN-alt', 26, -138);
 
 				playAnim('idle');
 			case 'coio':

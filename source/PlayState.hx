@@ -2012,12 +2012,24 @@ class PlayState extends MusicBeatState
 						{
 							case 2:
 								dad.playAnim('singUP' + altAnim, true);
+								if (dad.curCharacter == 'neonavi')
+									if (health >= 0.1)
+										health -= 0.03;
 							case 3:
 								dad.playAnim('singRIGHT' + altAnim, true);
+								if (dad.curCharacter == 'neonavi')
+									if (health >= 0.1)
+										health -= 0.03;
 							case 1:
 								dad.playAnim('singDOWN' + altAnim, true);
+								if (dad.curCharacter == 'neonavi')
+									if (health >= 0.1)
+										health -= 0.03;
 							case 0:
 								dad.playAnim('singLEFT' + altAnim, true);
+								if (dad.curCharacter == 'neonavi')
+									if (health >= 0.1)
+										health -= 0.03;
 						}
 						
 						if (FlxG.save.data.cpuStrums)
