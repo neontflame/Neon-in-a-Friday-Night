@@ -23,3 +23,9 @@ This game was made with love to Newgrounds and its community. Extra love to Tom 
 ### Kade Engine
 - [KadeDeveloper](https://twitter.com/KadeDeveloper) - Maintainer and lead programmer
 - [The contributors](https://github.com/KadeDev/Kade-Engine/graphs/contributors)
+
+### NiaFN
+- [neontflame](https://twitter.com/neontflame) - the one that started the mod
+- [KowoT](https://twitter.com/KowoT5) - charting and some more stuff
+- [bunni/xenorix](https://twitter.com/BunF_) - helped with music
+- [kaii666](https://twitter.com/kaii666) - also helped with music
