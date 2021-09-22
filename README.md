@@ -10,8 +10,8 @@ Links: **[itch.io page](https://ninja-muffin24.itch.io/funkin) ⋅ [Newgrounds](
 ## The Mod (And Shit)
 
 uhh about the mod
-you go to the rap center and then you meet neon. you decide to do what you're expected to do, cool rap
-(there's some stuff on freeplay too lol) 
+> you go to the rap center and then you meet neon. you decide to do what you're expected to do, cool rap
+> (there's some stuff on freeplay too lol) 
 
 # Credits
 ### Friday Night Funkin'
@@ -25,7 +25,7 @@ This game was made with love to Newgrounds and its community. Extra love to Tom 
 - [The contributors](https://github.com/KadeDev/Kade-Engine/graphs/contributors)
 
 ### NiaFN
-- [neontflame](https://twitter.com/neontflame) - the one that started the mod
+- [neontflame](https://twitter.com/neontflame) - the one that started the mod, doing a Lot Of Big Shit
 - [KowoT](https://twitter.com/KowoT5) - charting and some more stuff
 - [bunni/xenorix](https://twitter.com/BunF_) - helped with music
 - [kaii666](https://twitter.com/kaii666) - also helped with music
