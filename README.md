@@ -10,8 +10,8 @@ Links: **[itch.io page](https://ninja-muffin24.itch.io/funkin) ⋅ [Newgrounds](
 ## The Mod (And Shit)
 
 uhh about the mod
-> you go to the rap center and then you meet neon. you decide to do what you're expected to do, cool rap
-> (there's some stuff on freeplay too lol) 
+- you go to the rap center and then you meet neon. you decide to do what you're expected to do, cool rap
+- (there's some stuff on freeplay too lol) 
 
 # Credits
 ### Friday Night Funkin'
