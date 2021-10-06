@@ -46,6 +46,8 @@ jobs:
           haxelib install hxcpp-debug-server
           haxelib install linc_luajit
           haxelib list
+          haxelib remove linc_luajit
+          haxelib git linc_luajit https://github.com/nebulazorua/linc_luajit
         shell: cmd
       - name: Compile
         run: haxelib run lime build windows
