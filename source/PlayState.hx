@@ -375,7 +375,7 @@ class PlayState extends MusicBeatState
 				}
 			case 'ntfstage':
 				{
-						defaultCamZoom = 0.9;
+						defaultCamZoom = 0.75;
 						curStage = 'ntfstage';
 						var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('neon/bg'));
 						bg.antialiasing = true;
@@ -393,7 +393,7 @@ class PlayState extends MusicBeatState
 				}
 			case 'ntfevil':
 				{
-						defaultCamZoom = 0.9;
+						defaultCamZoom = 0.75;
 						curStage = 'ntfevil';
 						var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('neon/bg_evil'));
 						bg.antialiasing = true;
@@ -411,7 +411,7 @@ class PlayState extends MusicBeatState
 				}
 			case 'ntfavi':
 				{
-						defaultCamZoom = 0.9;
+						defaultCamZoom = 0.75;
 						curStage = 'ntfavi';
 						var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('neon/bg_avi'));
 						bg.antialiasing = true;
