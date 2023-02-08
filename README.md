@@ -1,6 +1,8 @@
 ![NiaFN logo](https://github.com/neontflame/Neon-in-a-Friday-Night/blob/208934a21d011a2785ad9f9a4d3f1347b45a1a0f/niafn.png?raw=true)
 
 # Neon in a Friday Night
+WARNING: this repo is **deprecated**! check out the more recent version [here](https://github.com/neontflame/fnf-neon-modpack)
+
 ## Friday Night Funkin'
 **Friday Night Funkin'** is a rhythm game originally made for Ludum Dare 47 "Stuck In a Loop".
 
